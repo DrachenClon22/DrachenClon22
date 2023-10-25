@@ -7,5 +7,6 @@ Unity game developer:
 Minecraft Spigot plugin developer:
 * [MIDI Blaster API](https://github.com/DrachenClon22/midi-blaster-api)
 * [Ultimate Login 2](https://github.com/DrachenClon22/ultimate-login-2)
+* [Ultimate Announcer](https://github.com/DrachenClon22/ultimate-announcer)
 
 ASP.NET appreciator, Python hater, C learner and most of all C# lover. Or briefly just call me DrachenClon22

@@ -1,7 +1,7 @@
 Indie game developer:
 * [Ludum Dare 50](https://ldjam.com/events/ludum-dare/50/pompeii-ludum-dare-50)
 * [Ludum Dare 51](https://ldjam.com/events/ludum-dare/51/whats-wrong)
-* [TheShift (Scream TV jam)](https://itch.io/jam/scream-tv/rate/2542672)
+* [TheShift](https://itch.io/jam/scream-tv/rate/2542672) (Scream TV jam)
 * [I Hate This Tabletop!](https://github.com/DrachenClon22/i-hate-this-tabletop)
 * Countless abandoned projects...
 
